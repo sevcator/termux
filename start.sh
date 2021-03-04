@@ -5,7 +5,7 @@ pkg install tsu -y
 
 
 
-cd ..
+cd ../..
 cd usr/etc
 rm -rf motd
 cd ../..
