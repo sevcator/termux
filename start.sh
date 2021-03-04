@@ -29,5 +29,4 @@ bash requirement.sh
 chmod +x t-ban.sh
 bash t-ban.sh
 nano 84nn3r.txt
-cd ..
-cd ..
+cd ../..
