@@ -1,2 +1,0 @@
-# termux
-Termux декоратив

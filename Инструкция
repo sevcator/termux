@@ -1,0 +1,9 @@
+# termux
+Termux декоратив
+
+Установка:
+pkg install git
+git clone https://github.com/sevcator/termux
+cd termux
+chmod +x install.sh
+./install.sh
