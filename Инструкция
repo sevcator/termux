@@ -7,3 +7,5 @@ git clone https://github.com/sevcator/termux
 cd termux
 chmod +x install.sh
 ./install.sh
+
+Заранее установятся дополнительные библеотеки!
